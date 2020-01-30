@@ -8,6 +8,7 @@ using namespace std;
 
 int main()
 {
+    cout << "kaisei can't read kanji" << endl;
     cout << "HELLO WAKIMIKO" << endl;
 }
 
